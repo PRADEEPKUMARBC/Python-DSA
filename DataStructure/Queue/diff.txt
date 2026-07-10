@@ -1,0 +1,11 @@
+1- LIFO last in first out
+2- Top
+3- Top
+4- Call Stack , undo
+
+
+Queue
+1- first in first out
+2- back
+3- front
+4- order -order, items, printer 

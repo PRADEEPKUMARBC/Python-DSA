@@ -1,0 +1,8 @@
+Linear Data Structure
+stacks and Queue
+
+1- Explain in stack
+2- undo, reverse, backtrack, matching, previous
+3- append(), pop()
+
+4- 
